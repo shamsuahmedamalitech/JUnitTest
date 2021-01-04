@@ -4,6 +4,9 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 
+import org.junit.Test;
+
+
 public class DemoTest {
 	@Test
 	public void test_isTriangle_1(){
