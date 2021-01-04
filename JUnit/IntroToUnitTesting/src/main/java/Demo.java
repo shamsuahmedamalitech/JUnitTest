@@ -19,7 +19,7 @@ public class Demo {
         int side_3 = reader.nextInt();
         
         if (isTriangle(side_1, side_2, side_3)) {
-            System.out.println("This is a triangle.");
+            System.out.println("This is a triangle.>>>");
         }
         else {
             System.out.println("This is not a triangle.");
